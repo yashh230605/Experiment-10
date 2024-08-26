@@ -39,3 +39,12 @@ int main()
 }
 
 //Output
+Using call by value: 
+Enter a number: 5
+Enter another number: 7
+User Values: 
+a: 5
+b: 7
+Swapped Values: 
+a: 7
+b: 5
