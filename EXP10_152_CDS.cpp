@@ -1,3 +1,6 @@
+//Yash Nangia
+//152
+//ENTC B3
 #include <iostream>
 using namespace std;
 
@@ -28,3 +31,14 @@ int main()
     swap(a,b);
     
 }
+
+//Output
+Using call by value: 
+Enter a number: 3
+Enter another number: 5
+User Values: 
+a: 3
+b: 5
+Swapped Values: 
+a: 5
+b: 3
